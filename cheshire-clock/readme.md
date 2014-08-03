@@ -20,3 +20,5 @@ The Arduino sketch should be easily adaptable to use any configuration of neopix
 
 The clock powers off of USB without any (apparent) issues.
 
+A photo:
+http://instagram.com/p/rM-UqUFOY1
